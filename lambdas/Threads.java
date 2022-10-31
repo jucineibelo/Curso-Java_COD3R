@@ -1,7 +1,5 @@
 package lambdas;
 
-import java.util.Iterator;
-
 public class Threads {
 
 	public static void main(String[] args) {
